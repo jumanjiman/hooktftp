@@ -1,7 +1,7 @@
 package main
 
 import (
-	"os/user"
+	"github.com/kelseyhightower/passwd/user"
 	"strconv"
 
 	"golang.org/x/sys/unix"
